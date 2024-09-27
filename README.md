@@ -13,5 +13,6 @@ Our future objective is to develop a neural network that identifies the optimal 
 ![Capture d'écran 2024-09-27 212255](https://github.com/user-attachments/assets/43f86b11-7b58-498e-b722-035458764fdd)
 ![Capture d'écran 2024-09-27 212306](https://github.com/user-attachments/assets/187da726-2777-4491-8f87-3c15a5b53cbb)
 
-Thank you, Rémy
+Thank you,<br>
+Rémy
 
